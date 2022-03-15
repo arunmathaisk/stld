@@ -9,12 +9,6 @@ LAB_NUMER = sys.argv[1]
 
 SERVER_IP = sys.argv[2]
 
-print(LAB_NUMER)
-print(SERVER_IP)
-print(type(SERVER_IP))
-
-
-
 STATUS_ENDPOINT = "/status.php"
 
 PAYLOAD_ENDPOINT = "/payload.php"
